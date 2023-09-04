@@ -1,0 +1,18 @@
+{
+  "name": "google_sheet-0.0.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node upload.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "dotenv": "^16.3.1",
+    "google-auth-library": "^9.0.0",
+    "googleapis": "^105.0.0"
+  }
+}
